@@ -1,0 +1,1 @@
+A app where you can find courses and workshops near your area and improve your skills
