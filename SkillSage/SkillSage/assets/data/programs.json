@@ -1,0 +1,164 @@
+{
+  "programs": [
+    {
+      "id": "1",
+      "title": "UI/UX Design Fundamentals",
+      "category": "UI/UX Design",
+      "description": "Master the fundamentals of user interface and user experience design",
+      "level": "Beginner",
+      "duration": "8 weeks",
+      "rating": 4.8,
+      "enrolled": 1234,
+      "modules": [
+        "Introduction to UI/UX",
+        "Design Thinking Process",
+        "Wireframing & Prototyping",
+        "User Research Methods",
+        "Visual Design Principles",
+        "Usability Testing"
+      ],
+      "skills": ["Figma", "Adobe XD", "User Research", "Prototyping"],
+      "instructor": "Sarah Johnson"
+    },
+    {
+      "id": "2",
+      "title": "Advanced Frontend Development",
+      "category": "Development",
+      "description": "Build modern, responsive web applications with React and TypeScript",
+      "level": "Intermediate",
+      "duration": "10 weeks",
+      "rating": 4.9,
+      "enrolled": 2156,
+      "modules": [
+        "React Fundamentals",
+        "TypeScript Essentials",
+        "State Management",
+        "API Integration",
+        "Performance Optimization",
+        "Testing & Deployment"
+      ],
+      "skills": ["React", "TypeScript", "Redux", "REST APIs"],
+      "instructor": "Michael Chen"
+    },
+    {
+      "id": "3",
+      "title": "Mobile App Design",
+      "category": "UI/UX Design",
+      "description": "Create beautiful and intuitive mobile app interfaces",
+      "level": "Intermediate",
+      "duration": "6 weeks",
+      "rating": 4.7,
+      "enrolled": 987,
+      "modules": [
+        "Mobile Design Patterns",
+        "iOS & Android Guidelines",
+        "Navigation Design",
+        "Micro-interactions",
+        "Accessibility in Mobile",
+        "Design Systems"
+      ],
+      "skills": ["Sketch", "Figma", "Mobile UI", "Prototyping"],
+      "instructor": "Emma Davis"
+    },
+    {
+      "id": "4",
+      "title": "Full Stack Web Development",
+      "category": "Development",
+      "description": "Complete full stack development with Node.js and MongoDB",
+      "level": "Advanced",
+      "duration": "12 weeks",
+      "rating": 4.9,
+      "enrolled": 1876,
+      "modules": [
+        "Backend Architecture",
+        "Node.js & Express",
+        "Database Design",
+        "Authentication & Security",
+        "RESTful APIs",
+        "Deployment & DevOps"
+      ],
+      "skills": ["Node.js", "MongoDB", "Express", "Docker"],
+      "instructor": "David Kumar"
+    },
+    {
+      "id": "5",
+      "title": "Graphic Design Essentials",
+      "category": "Design",
+      "description": "Learn core graphic design principles and tools",
+      "level": "Beginner",
+      "duration": "7 weeks",
+      "rating": 4.6,
+      "enrolled": 1543,
+      "modules": [
+        "Design Fundamentals",
+        "Color Theory",
+        "Typography",
+        "Layout & Composition",
+        "Adobe Creative Suite",
+        "Portfolio Building"
+      ],
+      "skills": ["Photoshop", "Illustrator", "InDesign", "Typography"],
+      "instructor": "Lisa Martinez"
+    },
+    {
+      "id": "6",
+      "title": "Data Visualization",
+      "category": "Development",
+      "description": "Transform data into compelling visual stories",
+      "level": "Intermediate",
+      "duration": "8 weeks",
+      "rating": 4.8,
+      "enrolled": 765,
+      "modules": [
+        "Data Analysis Basics",
+        "Chart Types & Selection",
+        "D3.js Fundamentals",
+        "Interactive Dashboards",
+        "Storytelling with Data",
+        "Best Practices"
+      ],
+      "skills": ["D3.js", "Python", "Tableau", "Data Analysis"],
+      "instructor": "Alex Thompson"
+    },
+    {
+      "id": "7",
+      "title": "Brand Identity Design",
+      "category": "Design",
+      "description": "Create cohesive and memorable brand identities",
+      "level": "Intermediate",
+      "duration": "9 weeks",
+      "rating": 4.7,
+      "enrolled": 1098,
+      "modules": [
+        "Brand Strategy",
+        "Logo Design",
+        "Visual Identity Systems",
+        "Brand Guidelines",
+        "Application Design",
+        "Client Presentation"
+      ],
+      "skills": ["Branding", "Illustrator", "Logo Design", "Strategy"],
+      "instructor": "Nina Patel"
+    },
+    {
+      "id": "8",
+      "title": "UX Research & Testing",
+      "category": "UI/UX Design",
+      "description": "Master user research and usability testing techniques",
+      "level": "Advanced",
+      "duration": "8 weeks",
+      "rating": 4.9,
+      "enrolled": 654,
+      "modules": [
+        "Research Methodologies",
+        "User Interviews",
+        "Usability Testing",
+        "A/B Testing",
+        "Analytics & Metrics",
+        "Research Synthesis"
+      ],
+      "skills": ["User Research", "Usability Testing", "Analytics", "Surveys"],
+      "instructor": "Robert Lee"
+    }
+  ]
+}
